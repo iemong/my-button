@@ -1,4 +1,4 @@
-import { App, DefineComponent, Plugin } from 'vue';
+import { App, DefineComponent, Plugin } from '@vue/runtime-core';
 
 // Import vue component
 import component from '@/my-button.vue';
