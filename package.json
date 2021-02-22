@@ -1,5 +1,5 @@
 {
-  "name": "MyButton",
+  "name": "@kiyoshidainagon/my-button",
   "version": "1.0.0",
   "description": "",
   "main": "dist/my-button.ssr.js",
